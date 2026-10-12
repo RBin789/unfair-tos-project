@@ -1,0 +1,1 @@
+{"run_name": "FS-Full-7-19.05.26", "created_at_utc": "2026-05-19T13:40:16.741456+00:00", "provider": "openai", "model": "gpt-4.1-mini", "test_file": "jsonl-version\\test.jsonl", "prompt_file": "prompts\\few-shot-classifier.txt", "max_samples": null, "temperature": 0.0, "gemini_batch_mode": false, "gemini_batch_chunk_size": null}

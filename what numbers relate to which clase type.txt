@@ -1,0 +1,11 @@
+0 = Limitation of Liability
+1 = Unilateral Termination
+2 = Unilateral Change
+3 = Content Removal
+4 = Contract by Using
+5 = Choice of Law
+6 = Jurisdiction
+7 = Arbitration
+8 = Fair
+
+python scripts/evaluate_prompt_engineering.py --model gpt-4.1-mini --test-file jsonl-version/test.jsonl --prompt-file prompts/zero-shot-classifier.txt --run-name full-test --api-key 

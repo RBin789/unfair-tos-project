@@ -1,0 +1,12 @@
+Category,Precision,Recall,F1 (Macro),F1 (Micro),Support,TP,FP,FN,TN,Accuracy,invalid_prediction_count,invalid_prediction_rate
+All,micro_precision for all categories,micro_recall for all categories,Macro_F1,Micro_F1,num_examples,,,,,exact_match_accuracy for all Categories,,
+0,,,,,,,,,,,,
+1,,,,,,,,,,,,
+2,,,,,,,,,,,,
+3,,,,,,,,,,,,
+4,,,,,,,,,,,,
+5,,,,,,,,,,,,
+6,,,,,,,,,,,,
+7,,,,,,,,,,,,
+8,,,,,,,,,,,,
+unfair_binary,,,,,,,,,,,,

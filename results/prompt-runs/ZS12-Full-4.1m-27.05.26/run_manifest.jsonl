@@ -1,0 +1,1 @@
+{"run_name": "ZS12-Full-27.05.26", "created_at_utc": "2026-05-27T11:08:33.142553+00:00", "provider": "openai", "model": "gpt-4.1-mini", "test_file": "jsonl-version\\test-openai.jsonl", "prompt_file": "prompts\\zero-shot-classifier.txt", "max_samples": null, "temperature": 0.0, "gemini_batch_mode": false, "gemini_batch_chunk_size": null}

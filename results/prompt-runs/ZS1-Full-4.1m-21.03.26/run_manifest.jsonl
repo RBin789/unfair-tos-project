@@ -1,0 +1,1 @@
+{"run_name": "full-test", "created_at_utc": "2026-03-21T05:47:31.804816+00:00", "model": "gpt-4.1-mini", "test_file": "jsonl-version\\test.jsonl", "prompt_file": "prompts\\zero-shot-classifier.txt", "max_samples": null, "temperature": 0.0}

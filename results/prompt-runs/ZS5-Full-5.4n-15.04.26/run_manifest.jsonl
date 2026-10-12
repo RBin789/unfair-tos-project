@@ -1,0 +1,1 @@
+{"run_name": "ZS-full-5-15.04.26", "created_at_utc": "2026-04-14T15:30:47.647622+00:00", "model": "gpt-5.4-nano", "test_file": "jsonl-version\\test.jsonl", "prompt_file": "prompts\\zero-shot-classifier.txt", "max_samples": null, "temperature": 0.0}
